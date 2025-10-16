@@ -1,6 +1,6 @@
 <h1 align="center" >Привет всем👋 Меня зовут Иван!</h1>
 
-<hr>
+
 
 <div align="center">
   <a href="https://t.me/Mineev_I_V" target="_blank">
@@ -11,7 +11,7 @@
 
 ## Обо мне
 
-<hr>
+
 
 🚀 Превращаю данные в решения | Data Science и аналитика
 
@@ -21,7 +21,7 @@
 
 
 ## 🛠 Навыки и инструменты
-<hr>
+
 
 <!-- Языки -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -57,6 +57,6 @@
 
 
 ## 🎓 Пройденные курсы и Сертификаты:
-<hr>
+
 
 - Яндекс.Практикум: [Специалист по Data Science](https://github.com/Ivan-Mineev-95/Ivan-Mineev-95/blob/93ff34aca875cd7616b7453e7efc1a4ff2e95d5e/%D0%94%D0%B8%D0%BF%D0%BB%D0%BE%D0%BC_RU_%D0%9C%D0%B8%D0%BD%D0%B5%D0%B5%D0%B2_2025-12346-021.pdf)
